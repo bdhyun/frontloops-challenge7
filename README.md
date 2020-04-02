@@ -15,4 +15,4 @@ The challenge was to recreate the webpage as presented in the mp4 file provided 
 
 ![Front Loops Challenge 7 Output Screenshot](final-product-screenshot.png)
 
-*Assets for webpage provided by FrontLoops. Background image provided by Unsplash.*
+*Comment and more icon provided by FrontLoops. Photo of Marcus Aurelius's bust provided by Wikimedia Commons under the  Creative Commons Attribution-Share Alike 3.0 Unported license; no changes were made.*
